@@ -1,4 +1,4 @@
-#```#
+
 # ------------- # -- Pomodoro Timer -- # ------------- #
 
 import time
@@ -68,4 +68,5 @@ while loop:
     # Handle non-numeric input
     except ValueError:
         invalid_time()
-#```#
+
+#````````````````````````````````````````````````````````````#
